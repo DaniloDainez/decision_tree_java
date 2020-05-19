@@ -1,0 +1,1013 @@
+IF relationship: Not-in-family AND capital.gain: '(7073.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 69/69.
+IF relationship: Husband AND capital.gain: '(3120-4243.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 44/44.
+IF relationship: Husband AND capital.gain: '(57-3048]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 43/43.
+IF relationship: Not-in-family AND capital.gain: '(57-3048]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 31/31.
+IF relationship: Own-child AND capital.gain: '(57-3048]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 27/27.
+IF relationship: Husband AND capital.gain: '(3048-3120]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 27/27.
+IF relationship: Not-in-family AND capital.gain: '(3120-4243.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 26/26.
+IF relationship: Husband AND capital.gain: '(4973.5-5119]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 26/26.
+IF relationship: Husband AND capital.gain: '(5119-5316.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 24/24.
+IF relationship: Not-in-family AND capital.gain: '(4401-4668.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 10/10.
+IF relationship: Wife AND education: 10th THEN negative; Frequencia: 100,00%; Total de Recorrencias: 9/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(23.5-27.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 8/8.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1881.5-1923]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 8/8.
+IF relationship: Not-in-family AND capital.gain: '(6618.5-7073.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 7/7.
+IF relationship: Own-child AND capital.gain: '(3120-4243.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 6/6.
+IF relationship: Husband AND capital.gain: '(5505.5-6618.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 6/6.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Other-service THEN negative; Frequencia: 100,00%; Total de Recorrencias: 6/6.
+IF relationship: Wife AND education: Prof-school AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 6/6.
+IF relationship: Not-in-family AND capital.gain: '(4668.5-4826]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 5/5.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Transport-moving THEN negative; Frequencia: 100,00%; Total de Recorrencias: 5/5.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Farming-fishing THEN negative; Frequencia: 100,00%; Total de Recorrencias: 5/5.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Other-service AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 5/5.
+IF relationship: Wife AND education: 11th AND race: White THEN negative; Frequencia: 100,00%; Total de Recorrencias: 5/5.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(43.5-61.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 5/5.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Machine-op-inspct THEN negative; Frequencia: 100,00%; Total de Recorrencias: 4/4.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Craft-repair THEN negative; Frequencia: 100,00%; Total de Recorrencias: 4/4.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Preschool THEN negative; Frequencia: 100,00%; Total de Recorrencias: 4/4.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(43.5-61.5]' AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 4/4.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(3120-4243.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 4/4.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Exec-managerial THEN positive; Frequencia: 100,00%; Total de Recorrencias: 4/4.
+IF relationship: Not-in-family AND capital.gain: '(4826-4932.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Machine-op-inspct THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Other-service THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Transport-moving THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Handlers-cleaners THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Handlers-cleaners THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Local-gov THEN positive; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: Private THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1568.5-1820.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Federal-gov AND race: White THEN positive; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(-inf-57]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Wife AND education: Some-college AND age: '(27.5-29.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(23.5-27.5]' AND race: White THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(35.5-43.5]' AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(35.5-43.5]' AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Wife AND education: 7th-8th THEN negative; Frequencia: 100,00%; Total de Recorrencias: 3/3.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(29.5-35.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(43.5-61.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(-inf-21.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(6618.5-7073.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Sales THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(-inf-21.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Transport-moving THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: State-gov THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Other-service THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Other-service AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(29.5-35.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(27.5-29.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: 12th THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(5119-5316.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(4973.5-5119]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Sales THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Adm-clerical THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Adm-clerical AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Prof-specialty AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Transport-moving THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Exec-managerial AND race: White THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Tech-support THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: 1st-4th THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Adm-clerical THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Prof-specialty AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Prof-specialty AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Other-service AND race: White THEN positive; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Wife AND education: 5th-6th AND race: White THEN negative; Frequencia: 100,00%; Total de Recorrencias: 2/2.
+IF relationship: Own-child AND capital.gain: '(4973.5-5119]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Own-child AND capital.gain: '(4401-4668.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(27.5-29.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(21.5-23.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Own-child AND capital.gain: '(6618.5-7073.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Not-in-family AND capital.gain: '(5316.5-5505.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(4401-4668.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(4826-4932.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Farming-fishing THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Protective-serv THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Handlers-cleaners THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Tech-support THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Adm-clerical THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(21.5-23.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(43.5-61.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(29.5-35.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: Private THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: Self-emp-not-inc THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Self-emp-not-inc THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Local-gov AND race: Asian-Pac-Islander THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Local-gov AND race: White THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Self-emp-inc THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Federal-gov THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(43.5-61.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(35.5-43.5]' AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(35.5-43.5]' AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(29.5-35.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(43.5-61.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(29.5-35.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: State-gov THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Private THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Self-emp-inc THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: Private THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(43.5-61.5]' AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(43.5-61.5]' AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(43.5-61.5]' AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: State-gov THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: Private THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(21.5-23.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Other-service AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Other-service AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(23.5-27.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(35.5-43.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: United-States THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Germany THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(29.5-35.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: Asian-Pac-Islander THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Federal-gov AND race: Black THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Other-service THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(29.5-35.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: 11th AND race: Asian-Pac-Islander THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(57-3048]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Farming-fishing THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Machine-op-inspct THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(7073.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Machine-op-inspct THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Adm-clerical AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Adm-clerical AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Prof-specialty AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Prof-specialty AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Other-service THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Exec-managerial AND race: Black THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Prof-specialty THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Other-service THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Exec-managerial THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(23.5-27.5]' AND race: Black THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(23.5-27.5]' AND race: Asian-Pac-Islander THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(-inf-21.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(35.5-43.5]' AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(35.5-43.5]' AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(61.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(27.5-29.5]' AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(27.5-29.5]' AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(27.5-29.5]' AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Craft-repair THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Tech-support AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Tech-support AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Tech-support AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Machine-op-inspct THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Handlers-cleaners THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Prof-specialty AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Prof-specialty AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Exec-managerial THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: Self-emp-not-inc THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: Private THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Other-service AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Other-service AND race: Black THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Prof-school AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: Prof-school AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Wife AND education: 5th-6th AND race: Asian-Pac-Islander THEN positive; Frequencia: 100,00%; Total de Recorrencias: 1/1.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(35.5-43.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(-inf-21.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(43.5-61.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(29.5-35.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(27.5-29.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(21.5-23.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(61.5-inf)' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Husband AND capital.gain: '(7073.5-inf)' AND age: '(23.5-27.5]' THEN positive; Frequencia: 99,06%; Total de Recorrencias: 316/319.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Married-spouse-absent THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Separated THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Divorced THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Married-AF-spouse THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Never-married THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Widowed THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Own-child AND capital.gain: '(-inf-57]' AND marital.status: Married-civ-spouse THEN negative; Frequencia: 99,03%; Total de Recorrencias: 1422/1436.
+IF relationship: Other-relative AND native.country: Scotland THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Canada THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Cuba THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Cambodia THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Yugoslavia THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Philippines THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Mexico THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Trinadad&Tobago THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Nicaragua THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Vietnam THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Peru THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Outlying-US(Guam-USVI-etc) THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Ecuador THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Guatemala THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Iran THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: China THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Thailand THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Puerto-Rico THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Italy THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Taiwan THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Hong THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: England THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Portugal THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Ireland THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Greece THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: United-States THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Germany THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: India THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: El-Salvador THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Japan THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Dominican-Republic THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Poland THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: France THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Holand-Netherlands THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: South THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Columbia THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Honduras THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Haiti THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Jamaica THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Laos THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Other-relative AND native.country: Hungary THEN negative; Frequencia: 95,36%; Total de Recorrencias: 288/302.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Armed-Forces THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Handlers-cleaners THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Exec-managerial THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Protective-serv THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Prof-specialty THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Adm-clerical THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Sales THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Tech-support THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Craft-repair THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Farming-fishing THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Machine-op-inspct THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Priv-house-serv THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Other-service THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 9th AND occupation: Transport-moving THEN negative; Frequencia: 93,55%; Total de Recorrencias: 58/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(-inf-21.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(29.5-35.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(35.5-43.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(61.5-inf)' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(21.5-23.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(43.5-61.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(27.5-29.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 11th AND age: '(23.5-27.5]' THEN negative; Frequencia: 92,77%; Total de Recorrencias: 77/83.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(-inf-21.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(43.5-61.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(27.5-29.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(61.5-inf)' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(35.5-43.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(21.5-23.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(29.5-35.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Machine-op-inspct AND age: '(23.5-27.5]' THEN negative; Frequencia: 92,50%; Total de Recorrencias: 37/40.
+IF relationship: Unmarried AND capital.gain: '(-inf-57]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(4826-4932.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(4932.5-4973.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(4401-4668.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(6618.5-7073.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(3048-3120]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(4243.5-4401]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(5119-5316.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(4973.5-5119]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(3120-4243.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(4668.5-4826]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(7073.5-inf)' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(57-3048]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(5505.5-6618.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Unmarried AND capital.gain: '(5316.5-5505.5]' THEN negative; Frequencia: 92,45%; Total de Recorrencias: 992/1073.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 12th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Preschool THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 11th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Assoc-voc THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 7th-8th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 1st-4th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 9th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Doctorate THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: HS-grad THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 5th-6th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Masters THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: 10th THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Some-college THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Prof-school THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Assoc-acdm THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Not-in-family AND capital.gain: '(-inf-57]' AND education: Bachelors THEN negative; Frequencia: 91,86%; Total de Recorrencias: 2202/2397.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Sales THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Transport-moving THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Handlers-cleaners THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Exec-managerial THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Protective-serv THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Other-service THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Craft-repair THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Farming-fishing THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Priv-house-serv THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Adm-clerical THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Prof-specialty THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Tech-support THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Armed-Forces THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 1st-4th AND occupation: Machine-op-inspct THEN negative; Frequencia: 91,67%; Total de Recorrencias: 22/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Craft-repair THEN negative; Frequencia: 91,67%; Total de Recorrencias: 11/12.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Handlers-cleaners THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Priv-house-serv THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Machine-op-inspct THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Craft-repair THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Farming-fishing THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Prof-specialty THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Other-service THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Exec-managerial THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Protective-serv THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Transport-moving THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Sales THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Tech-support THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Adm-clerical THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 7th-8th AND occupation: Armed-Forces THEN negative; Frequencia: 90,91%; Total de Recorrencias: 80/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Greece THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Cuba THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: France THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: India THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Germany THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Columbia THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Cambodia THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Scotland THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Nicaragua THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Italy THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Guatemala THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Peru THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: El-Salvador THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Honduras THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Trinadad&Tobago THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Japan THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Dominican-Republic THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Laos THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Mexico THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Outlying-US(Guam-USVI-etc) THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Haiti THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Philippines THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Ireland THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Jamaica THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Holand-Netherlands THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Ecuador THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Canada THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Taiwan THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Yugoslavia THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Puerto-Rico THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Vietnam THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Portugal THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: South THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: England THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Hungary THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Hong THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Thailand THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Poland THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: United-States THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: Iran THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Handlers-cleaners AND native.country: China THEN negative; Frequencia: 90,48%; Total de Recorrencias: 19/21.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Other-service AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 90,00%; Total de Recorrencias: 9/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Transport-moving THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Craft-repair THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Sales THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Handlers-cleaners THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Armed-Forces THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Farming-fishing THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Priv-house-serv THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Protective-serv THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Adm-clerical THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Prof-specialty THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Tech-support THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Machine-op-inspct THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Other-service THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 10th AND occupation: Exec-managerial THEN negative; Frequencia: 86,87%; Total de Recorrencias: 86/99.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Trinadad&Tobago THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Japan THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Nicaragua THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Vietnam THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Cuba THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Portugal THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Ireland THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Hungary THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Poland THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Columbia THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Italy THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Taiwan THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Jamaica THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: France THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Scotland THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Outlying-US(Guam-USVI-etc) THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Canada THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Mexico THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Cambodia THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Greece THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Peru THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Puerto-Rico THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: United-States THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Germany THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: India THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Thailand THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Ecuador THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Haiti THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Dominican-Republic THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Guatemala THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Holand-Netherlands THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: South THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: El-Salvador THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Philippines THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Iran THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: China THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Hong THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Honduras THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Laos THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: England THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Doctorate AND native.country: Yugoslavia THEN positive; Frequencia: 85,48%; Total de Recorrencias: 53/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(27.5-29.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(43.5-61.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(23.5-27.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(29.5-35.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(61.5-inf)' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(21.5-23.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(35.5-43.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Farming-fishing AND age: '(-inf-21.5]' THEN negative; Frequencia: 83,33%; Total de Recorrencias: 30/36.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Farming-fishing THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Exec-managerial THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Adm-clerical THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Priv-house-serv THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Other-service THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Craft-repair THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Transport-moving THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Prof-specialty THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Tech-support THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Armed-Forces THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Machine-op-inspct THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Sales THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Handlers-cleaners THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Husband AND capital.gain: '(4243.5-4401]' AND occupation: Protective-serv THEN positive; Frequencia: 83,33%; Total de Recorrencias: 20/24.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(35.5-43.5]' AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 83,33%; Total de Recorrencias: 5/6.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-inc THEN positive; Frequencia: 82,35%; Total de Recorrencias: 14/17.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Adm-clerical THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Sales THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Prof-specialty THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Transport-moving THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Craft-repair THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Exec-managerial THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Tech-support THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Protective-serv THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(29.5-35.5]' AND occupation: Other-service THEN negative; Frequencia: 80,56%; Total de Recorrencias: 29/36.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Transport-moving THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Craft-repair THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Adm-clerical THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Protective-serv THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Tech-support THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Exec-managerial THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Other-service THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Sales THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Prof-specialty THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(27.5-29.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 80,00%; Total de Recorrencias: 8/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Local-gov AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 80,00%; Total de Recorrencias: 4/5.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(23.5-27.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(43.5-61.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(21.5-23.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(61.5-inf)' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(27.5-29.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(29.5-35.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(-inf-21.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: White AND age: '(35.5-43.5]' THEN positive; Frequencia: 78,57%; Total de Recorrencias: 22/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Farming-fishing THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Armed-Forces THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Prof-specialty THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Machine-op-inspct THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Craft-repair THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Sales THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Other-service THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Exec-managerial THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Priv-house-serv THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Tech-support THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Transport-moving THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Protective-serv THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Adm-clerical THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(61.5-inf)' AND occupation: Handlers-cleaners THEN negative; Frequencia: 77,78%; Total de Recorrencias: 7/9.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: Federal-gov THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: Without-pay THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: Self-emp-not-inc THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: Self-emp-inc THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: Local-gov THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: State-gov THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Exec-managerial AND workclass: Private THEN positive; Frequencia: 76,92%; Total de Recorrencias: 10/13.
+IF relationship: Wife AND education: Masters THEN positive; Frequencia: 76,47%; Total de Recorrencias: 26/34.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(-inf-21.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(29.5-35.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(23.5-27.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(43.5-61.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(61.5-inf)' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(21.5-23.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(27.5-29.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Prof-school AND age: '(35.5-43.5]' THEN positive; Frequencia: 76,14%; Total de Recorrencias: 67/88.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Masters THEN positive; Frequencia: 75,32%; Total de Recorrencias: 177/235.
+IF relationship: Wife AND education: Some-college AND age: '(43.5-61.5]' AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 21/28.
+IF relationship: Wife AND education: Some-college AND age: '(43.5-61.5]' AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 21/28.
+IF relationship: Wife AND education: Some-college AND age: '(43.5-61.5]' AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 21/28.
+IF relationship: Wife AND education: Some-college AND age: '(43.5-61.5]' AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 21/28.
+IF relationship: Wife AND education: Some-college AND age: '(43.5-61.5]' AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 21/28.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Transport-moving THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Sales THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Craft-repair THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Protective-serv THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Tech-support THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Prof-specialty THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Exec-managerial THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Adm-clerical THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Other-service THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Some-college AND age: '(23.5-27.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 75,00%; Total de Recorrencias: 9/12.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(23.5-27.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(29.5-35.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(61.5-inf)' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(21.5-23.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(43.5-61.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(-inf-21.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(35.5-43.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Adm-clerical AND age: '(27.5-29.5]' THEN negative; Frequencia: 75,00%; Total de Recorrencias: 6/8.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(43.5-61.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 3/4.
+IF relationship: Wife AND education: Doctorate AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 3/4.
+IF relationship: Wife AND education: Doctorate AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 3/4.
+IF relationship: Wife AND education: Doctorate AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 3/4.
+IF relationship: Wife AND education: Doctorate AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 3/4.
+IF relationship: Wife AND education: Doctorate AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 75,00%; Total de Recorrencias: 3/4.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: Local-gov THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: State-gov THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: Private THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: Without-pay THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: Federal-gov THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: Self-emp-not-inc THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Some-college AND age: '(29.5-35.5]' AND workclass: Self-emp-inc THEN negative; Frequencia: 72,73%; Total de Recorrencias: 8/11.
+IF relationship: Wife AND education: Bachelors AND native.country: Cambodia THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Peru THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Thailand THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Trinadad&Tobago THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Japan THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Hong THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Mexico THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Philippines THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Laos THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Dominican-Republic THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Outlying-US(Guam-USVI-etc) THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: United-States THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Ecuador THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Hungary THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Honduras THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Italy THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Scotland THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: India THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Greece THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Ireland THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Columbia THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Iran THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: South THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Taiwan THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Haiti THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: El-Salvador THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Portugal THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: China THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Jamaica THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Poland THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Holand-Netherlands THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Canada THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: England THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Cuba THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Nicaragua THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Germany THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Guatemala THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: France THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Yugoslavia THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Puerto-Rico THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Wife AND education: Bachelors AND native.country: Vietnam THEN positive; Frequencia: 71,00%; Total de Recorrencias: 71/100.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1975.5-1978.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1923-1975.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(2384.5-2581]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(2176.5-2218.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1978.5-2161.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(2218.5-2384.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1862-1881.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1551.5-1568.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(-inf-1551.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1881.5-1923]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1568.5-1820.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(2161.5-2176.5]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(2581-inf)' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: HS-grad AND capital.loss: '(1820.5-1862]' THEN negative; Frequencia: 69,03%; Total de Recorrencias: 836/1211.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(43.5-61.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(35.5-43.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(61.5-inf)' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(29.5-35.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(27.5-29.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(21.5-23.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(-inf-21.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Self-emp-not-inc AND age: '(23.5-27.5]' THEN negative; Frequencia: 68,42%; Total de Recorrencias: 13/19.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Other-service THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Exec-managerial THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Armed-Forces THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Protective-serv THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Adm-clerical THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Prof-specialty THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Sales THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Transport-moving THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Craft-repair THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Farming-fishing THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Priv-house-serv THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(-inf-57]' AND occupation: Tech-support THEN negative; Frequencia: 67,61%; Total de Recorrencias: 96/142.
+IF relationship: Wife AND education: 9th AND age: '(21.5-23.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(23.5-27.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(43.5-61.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(-inf-21.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(35.5-43.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(29.5-35.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(61.5-inf)' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Wife AND education: 9th AND age: '(27.5-29.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 4/6.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: Local-gov THEN positive; Frequencia: 66,67%; Total de Recorrencias: 2/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(35.5-43.5]' THEN positive; Frequencia: 66,67%; Total de Recorrencias: 2/3.
+IF relationship: Wife AND education: Some-college AND age: '(21.5-23.5]' THEN negative; Frequencia: 66,67%; Total de Recorrencias: 2/3.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(23.5-27.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(27.5-29.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(-inf-21.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(29.5-35.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(21.5-23.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(35.5-43.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(43.5-61.5]' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Adm-clerical AND age: '(61.5-inf)' THEN negative; Frequencia: 65,79%; Total de Recorrencias: 25/38.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(2176.5-2218.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1975.5-1978.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1820.5-1862]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(2218.5-2384.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(2161.5-2176.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(-inf-1551.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(2384.5-2581]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1551.5-1568.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1923-1975.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1862-1881.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1568.5-1820.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1978.5-2161.5]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(2581-inf)' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Transport-moving AND capital.loss: '(1881.5-1923]' THEN negative; Frequencia: 65,38%; Total de Recorrencias: 34/52.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(29.5-35.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(43.5-61.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(61.5-inf)' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(27.5-29.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(23.5-27.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(21.5-23.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(35.5-43.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Tech-support AND age: '(-inf-21.5]' THEN positive; Frequencia: 62,50%; Total de Recorrencias: 15/24.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Craft-repair THEN negative; Frequencia: 60,78%; Total de Recorrencias: 93/153.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Local-gov AND hours.per.week: '(-inf-34.5]' THEN positive; Frequencia: 60,00%; Total de Recorrencias: 6/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Local-gov AND hours.per.week: '(34.5-39.5]' THEN positive; Frequencia: 60,00%; Total de Recorrencias: 6/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Local-gov AND hours.per.week: '(41.5-49.5]' THEN positive; Frequencia: 60,00%; Total de Recorrencias: 6/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Local-gov AND hours.per.week: '(49.5-inf)' THEN positive; Frequencia: 60,00%; Total de Recorrencias: 6/10.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Local-gov AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 60,00%; Total de Recorrencias: 6/10.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Adm-clerical AND hours.per.week: '(39.5-41.5]' THEN positive; Frequencia: 60,00%; Total de Recorrencias: 3/5.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(2581-inf)' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1978.5-2161.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(-inf-1551.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(2176.5-2218.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(2161.5-2176.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1881.5-1923]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1862-1881.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1568.5-1820.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1975.5-1978.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1820.5-1862]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1551.5-1568.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(2218.5-2384.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(2384.5-2581]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Bachelors AND capital.loss: '(1923-1975.5]' THEN positive; Frequencia: 59,97%; Total de Recorrencias: 385/642.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 16/28.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(43.5-61.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(23.5-27.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(61.5-inf)' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(21.5-23.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(35.5-43.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(29.5-35.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(-inf-21.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Adm-clerical AND age: '(27.5-29.5]' THEN negative; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(27.5-29.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(35.5-43.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(29.5-35.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(43.5-61.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(23.5-27.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(-inf-21.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(61.5-inf)' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Sales AND age: '(21.5-23.5]' THEN positive; Frequencia: 57,14%; Total de Recorrencias: 8/14.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(2581-inf)' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(2218.5-2384.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1975.5-1978.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(2176.5-2218.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1568.5-1820.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1978.5-2161.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1923-1975.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1551.5-1568.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(-inf-1551.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(2384.5-2581]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1862-1881.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1820.5-1862]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(2161.5-2176.5]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Sales AND capital.loss: '(1881.5-1923]' THEN negative; Frequencia: 55,56%; Total de Recorrencias: 65/117.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Craft-repair THEN negative; Frequencia: 54,55%; Total de Recorrencias: 12/22.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Tech-support AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 54,55%; Total de Recorrencias: 6/11.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Tech-support AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 54,55%; Total de Recorrencias: 6/11.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Tech-support AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 54,55%; Total de Recorrencias: 6/11.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Tech-support AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 54,55%; Total de Recorrencias: 6/11.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Tech-support AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 54,55%; Total de Recorrencias: 6/11.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Prof-specialty AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 54,35%; Total de Recorrencias: 25/46.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Prof-specialty AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 54,35%; Total de Recorrencias: 25/46.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Prof-specialty AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 54,35%; Total de Recorrencias: 25/46.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Prof-specialty AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 54,35%; Total de Recorrencias: 25/46.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Prof-specialty AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 54,35%; Total de Recorrencias: 25/46.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Sales THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Protective-serv THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Tech-support THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Adm-clerical THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Other-service THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Exec-managerial THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Prof-specialty THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Craft-repair THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(35.5-43.5]' AND occupation: Transport-moving THEN negative; Frequencia: 52,50%; Total de Recorrencias: 21/40.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Transport-moving THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Tech-support THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Exec-managerial THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Priv-house-serv THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Handlers-cleaners THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Protective-serv THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Craft-repair THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Prof-specialty THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Armed-Forces THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Machine-op-inspct THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Other-service THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Sales THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Adm-clerical THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-voc AND age: '(43.5-61.5]' AND occupation: Farming-fishing THEN positive; Frequencia: 51,61%; Total de Recorrencias: 32/62.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(35.5-43.5]' THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Local-gov AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Local-gov AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: Local-gov THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(43.5-61.5]' THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: Black THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Sales THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Wife AND education: Prof-school AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 50,00%; Total de Recorrencias: 1/2.
+IF relationship: Own-child AND capital.gain: '(4826-4932.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(5119-5316.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(4243.5-4401]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(5316.5-5505.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(4932.5-4973.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(4668.5-4826]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(5505.5-6618.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(23.5-27.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(35.5-43.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(7073.5-inf)' AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Own-child AND capital.gain: '(3048-3120]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Not-in-family AND capital.gain: '(4932.5-4973.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Not-in-family AND capital.gain: '(4243.5-4401]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Not-in-family AND capital.gain: '(5119-5316.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Not-in-family AND capital.gain: '(3048-3120]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Not-in-family AND capital.gain: '(4973.5-5119]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Not-in-family AND capital.gain: '(5505.5-6618.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(4668.5-4826]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(4932.5-4973.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(5316.5-5505.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Sales THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Adm-clerical THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Exec-managerial THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 12th AND occupation: Prof-specialty THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Protective-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Prof-specialty THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Exec-managerial THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: 5th-6th AND occupation: Tech-support THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(27.5-29.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(23.5-27.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Machine-op-inspct AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: Local-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: Self-emp-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Farming-fishing AND workclass: State-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Local-gov AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Local-gov AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Local-gov AND race: Black THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: State-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(27.5-29.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(23.5-27.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(35.5-43.5]' AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(35.5-43.5]' AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Prof-specialty AND workclass: Private AND age: '(35.5-43.5]' AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Self-emp-not-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Self-emp-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(27.5-29.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(23.5-27.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Assoc-acdm AND occupation: Protective-serv AND workclass: Private AND age: '(35.5-43.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Local-gov AND hours.per.week: '(-inf-34.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Local-gov AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(35.5-43.5]' AND workclass: Self-emp-not-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: State-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: Self-emp-not-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(23.5-27.5]' AND workclass: Self-emp-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(43.5-61.5]' AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: Self-emp-not-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: Local-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(61.5-inf)' AND workclass: Self-emp-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(27.5-29.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: Self-emp-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: Self-emp-not-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Protective-serv AND age: '(29.5-35.5]' AND workclass: State-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1923-1975.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1862-1881.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(2218.5-2384.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1975.5-1978.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(2581-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1551.5-1568.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1978.5-2161.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(2161.5-2176.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(2176.5-2218.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(1820.5-1862]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(2384.5-2581]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(27.5-29.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: State-gov AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: China THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Puerto-Rico THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Honduras THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Philippines THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Laos THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Haiti THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Hungary THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: El-Salvador THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Ecuador THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Guatemala THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Jamaica THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Taiwan THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Outlying-US(Guam-USVI-etc) THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Trinadad&Tobago THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Hong THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Holand-Netherlands THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: South THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Thailand THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Ireland THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Japan THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Canada THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Italy THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Portugal THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Vietnam THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Nicaragua THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Cuba THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Dominican-Republic THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Peru THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Greece THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: England THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Poland THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Columbia THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Yugoslavia THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: India THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Cambodia THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Scotland THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Iran THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: France THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(23.5-27.5]' AND native.country: Mexico THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(41.5-49.5]' AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Private AND hours.per.week: '(49.5-inf)' AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Federal-gov AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Federal-gov AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Exec-managerial AND capital.loss: '(-inf-1551.5]' AND workclass: Federal-gov AND race: Asian-Pac-Islander THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Husband AND capital.gain: '(-inf-57]' AND education: Some-college AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(23.5-27.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(61.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(27.5-29.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Transport-moving THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Exec-managerial THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Adm-clerical THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Prof-specialty THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Protective-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Sales THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Craft-repair THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Tech-support THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(43.5-61.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Black AND age: '(35.5-43.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 11th AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(6618.5-7073.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(4932.5-4973.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(4668.5-4826]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(3048-3120]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(4826-4932.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(4401-4668.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(4243.5-4401]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(5316.5-5505.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Transport-moving THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Other-service THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Handlers-cleaners THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Protective-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Tech-support THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Craft-repair THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(7073.5-inf)' AND occupation: Prof-specialty THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: HS-grad AND capital.gain: '(5505.5-6618.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(4243.5-4401]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(4932.5-4973.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(4668.5-4826]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(6618.5-7073.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(4826-4932.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(57-3048]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(3048-3120]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(4401-4668.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(5505.5-6618.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(5316.5-5505.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(4973.5-5119]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(3120-4243.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(61.5-inf)' AND capital.gain: '(5119-5316.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Craft-repair THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Adm-clerical AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Prof-specialty AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Prof-specialty AND hours.per.week: '(39.5-41.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Protective-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Exec-managerial AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Exec-managerial AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Exec-managerial AND race: Asian-Pac-Islander THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(35.5-43.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Some-college AND age: '(-inf-21.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Farming-fishing THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Protective-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Handlers-cleaners THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Sales THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Machine-op-inspct THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Tech-support THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Craft-repair THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(29.5-35.5]' AND occupation: Transport-moving THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(23.5-27.5]' AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(23.5-27.5]' AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(21.5-23.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(27.5-29.5]' AND hours.per.week: '(34.5-39.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-acdm AND age: '(27.5-29.5]' AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Farming-fishing THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Tech-support AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Tech-support AND hours.per.week: '(49.5-inf)' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Prof-specialty AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: Local-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: State-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: Self-emp-inc THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: Federal-gov THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Transport-moving AND workclass: Without-pay THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Priv-house-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Armed-Forces THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Protective-serv THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Sales THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Other-service AND race: Asian-Pac-Islander THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Assoc-voc AND occupation: Other-service AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Preschool THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: Prof-school AND hours.per.week: '(41.5-49.5]' THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 5th-6th AND race: Black THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 5th-6th AND race: Amer-Indian-Eskimo THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
+IF relationship: Wife AND education: 5th-6th AND race: Other THEN negative; Frequencia: 0,00%; Total de Recorrencias: 0/0.
